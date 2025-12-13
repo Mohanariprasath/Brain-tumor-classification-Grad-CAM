@@ -12,7 +12,7 @@ Pituitary Tumor
 
 No Tumor
 
-This work is based on the mini-project report submitted for B23AMT501 — Deep  
+This work is based on the mini-project report submitted for B23AMT501   
 
 📌 Project Highlights
 
