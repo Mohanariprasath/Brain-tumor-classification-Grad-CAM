@@ -12,7 +12,7 @@ Pituitary Tumor
 
 No Tumor
 
-This work is based on the mini-project report submitted for B23AMT501 — Deep Neural Network at Kalaignar Karunanidhi Institute of Technology.
+This work is based on the mini-project report submitted for B23AMT501 — Deep Neural Network at Kalaignar Karunanidhi Institute of 
 
 📌 Project Highlights
 
