@@ -12,7 +12,7 @@ Pituitary Tumor
 
 No Tumor
 
-This work is based on the mini-project 
+This work is based on 
 
 📌 Project Highlights
 
