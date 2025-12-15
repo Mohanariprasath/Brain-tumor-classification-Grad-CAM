@@ -2,9 +2,6 @@
 
 
 
-
-
-
 🧠 Brain Tumor Classification from MRI
 
 A Deep Learning–based Convolutional Neural Network (CNN) Project
